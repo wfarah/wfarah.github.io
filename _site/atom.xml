@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/wfarah/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/wfarah/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/wfarah/</id>
+	<id>http://localhost:4000/</id>
 	<title>Wael Farah</title>
-	<updated>2022-08-22T18:46:23+03:00</updated>
+	<updated>2022-08-22T19:59:15+03:00</updated>
 
 	<subtitle>Dr. Wael Farah | SETI Institute</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/wfarah/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/wfarah/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="4.0.0">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/wfarah/blog/voyager1/</id>
+			<id>http://localhost:4000/blog/voyager1/</id>
 			<title>Detecting Voyager 1 with the ATA</title>
-			<link href="http://localhost:4000/wfarah/blog/voyager1/" rel="alternate" type="text/html" title="Detecting Voyager 1 with the ATA" />
+			<link href="http://localhost:4000/blog/voyager1/" rel="alternate" type="text/html" title="Detecting Voyager 1 with the ATA" />
 			<updated>2022-06-23T00:00:00+03:00</updated>
 
 			
@@ -42,7 +42,7 @@
 				</author>
 			
 			<summary>The farthest human-made object from our home planet detected by the Allen Telescope Array.</summary>
-			<content type="html" xml:base="http://localhost:4000/wfarah/blog/voyager1/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/blog/voyager1/">&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
 &lt;div class=&quot;medium-4 medium-push-8 columns&quot;&gt;
