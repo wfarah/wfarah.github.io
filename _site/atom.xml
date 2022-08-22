@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Wael Farah</title>
-	<updated>2022-08-22T20:25:36+03:00</updated>
+	<updated>2022-08-22T20:28:19+03:00</updated>
 
 	<subtitle>Dr. Wael Farah | SETI Institute</subtitle>
 
@@ -152,7 +152,9 @@ observation, each antenna is ~6m in diameter with an aperture efficiency of
 \[N_0 = k_B \times T_{rec} \times BW = 1.38\times 10^{-23} \times 120 \times 1 = 
     1.66\times 10^{-21}\,\textrm{W} = -177.81\,\textrm{dBm}\]
 
-    &lt;p&gt;The above assumes a receiver temperature of 120 Kelvin at 8.4 GHz.&lt;/p&gt;
+    &lt;p&gt;The above assumes a receiver temperature of 120 Kelvin at 8.4 GHz. The 
+receiver temperature could have also been measured using the quasar observation, 
+but the 120 Kelvin figure is not far from reality given previous measurements.&lt;/p&gt;
 
     &lt;p&gt;Finally, the expected carrier-to-noise ratio is:&lt;/p&gt;
 
