@@ -11,7 +11,7 @@
 			<item>
 				<title>Detecting Voyager 1 with the ATA</title>
 				<link>http://localhost:4000/blog/voyager1/</link>
-				<pubDate>Thu, 23 Jun 2022 00:00:00 +0300</pubDate>
+				<pubDate>Tue, 16 Aug 2022 00:00:00 +0300</pubDate>
 				<description>&lt;!--more--&gt;
 
 &lt;div class=&quot;row&quot;&gt;
@@ -58,11 +58,15 @@ needed delay and phase solutions.&lt;/p&gt;
 
     &lt;h2 id=&quot;observations&quot;&gt;Observations&lt;/h2&gt;
     &lt;p&gt;On July 9th, 2022, the 20 available antennas of the Allen Telescope Array were used to 
-observe the Voyager\,1 space probe. The \as{Are you sure the downlink was locked at the time of these observations?} \as{topocentric?} coherent downlink frequency of Voyager\,1, in the X-band, 
-\as{at the time of these observations} is ~8420.43 MHz, with a spectral width of $&amp;lt;1$\,Hz, therefore the ATA was tuned at a center 
-frequency of 8400 MHz. Ten minutes of data on a nearby quasar were collected using the correlator, 
+observe the Voyager 1 space probe. The coherent downlink frequency of Voyager 1, in the X-band, 
+is ~8420.43 MHz, with a spectral width of &amp;lt;1 Hz. The ATA was tuned at a center 
+frequency of 8400 MHz (the beamformer’s bandwidth is relatively large, 672 MHz). 
+No DSN observations were underway at the the time of the ATA observation, 
+therefore I assume no two-way communication mode has been set, and the transponder 
+is not locked to the uplink frequency.
+Ten minutes of data on a nearby quasar were collected using the correlator, 
 and a delay/phase solution was derived for the beamformer. The antennas were then 
-pointed at the position of Voyager\,1 as determined using the ephemeris obtained 
+pointed at the position of Voyager 1 as determined using the ephemeris obtained 
 from the solar system dynamics NASA/JPL &lt;a href=&quot;https://ssd.jpl.nasa.gov/horizons/app.html&quot;&gt;webpage&lt;/a&gt;
 (ICRF RA = 17:13:41.13, Dec = +12:23:49.9). Fifteen minutes of beamformed complex baseband 
 data were then recorded and stored on disk.&lt;/p&gt;
@@ -90,8 +94,8 @@ a carrier-to-noise of 11.5 dB was measured in a single polarization of the recor
     &lt;p&gt;Voyager 1 is equipped with a Pt = 22.4 W transmitter and it utilizes a Gt = 48 dBi
 high gain 
 directional antenna pointed straight at earth (to read more about Voyager’s 
-specification, see \href{https://voyager.gsfc.nasa.gov/Library/DeepCommo_Chapter3–141029.pdf}{this}). 
-The spacecraft, at the time of writing,\as{at the time of observation?} is at a distance of r = 23.3e9 km 
+specification, see &lt;a href=&quot;https://voyager.gsfc.nasa.gov/Library/DeepCommo_Chapter3--141029.pdf&quot;&gt;this&lt;/a&gt;). 
+The spacecraft, at the time of observation, is at a distance of r = 23.3e9 km 
 from earth.&lt;/p&gt;
 
     &lt;p&gt;Power density:&lt;/p&gt;
