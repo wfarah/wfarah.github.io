@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Wael Farah</title>
-	<updated>2022-08-22T20:28:19+03:00</updated>
+	<updated>2022-08-22T20:29:27+03:00</updated>
 
 	<subtitle>Dr. Wael Farah | SETI Institute</subtitle>
 
@@ -172,7 +172,7 @@ de-Dopplered. In other words, the effect of Doppler shifting within each of FFT 
 was not corrected for. This will introduce some reduction in C/N0. Finally, the beamformer 
 was assumed to have perfect efficiency, which is not the case in real-world scenarios.&lt;/p&gt;
 
-    &lt;p&gt;The detection of Voyager\,1, the farthest human-made object, with the refurbished 
+    &lt;p&gt;The detection of Voyager 1, the farthest human-made object, with the refurbished 
 Allen Telescope Array is an excellent display of the telescope’s capabilities 
 and strengths, and a representation of the outstanding hard work put 
 by the ATA team since the start of the refurbishment program in 2019&lt;/p&gt;
