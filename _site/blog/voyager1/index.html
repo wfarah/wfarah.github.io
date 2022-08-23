@@ -301,7 +301,7 @@ signal using the Allen Telescope Array.</p>
 multiple receptors in order to maximize their sensitivity towards a particular 
 spatial direction. Beamforming is a very rich topic and I won’t go into details 
 here, but in short, a beamformer requires a calibration scheme to compute the 
-instrumental delays and phases (with respect to a reference) of each station 
+instrumental delays and phases for each station 
 of an array. For the ATA beamformer system, we utilize a correlator – a software 
 suit that multiplies signals from each pair of antennas together – to derive the 
 needed delay and phase solutions.</p>
@@ -310,11 +310,11 @@ needed delay and phase solutions.</p>
     <p>On July 9th, 2022, the 20 available antennas of the Allen Telescope Array were used to 
 observe the Voyager 1 space probe. The coherent downlink frequency of Voyager 1, in the X-band, 
 is ~8420.43 MHz, with a spectral width of &lt;1 Hz. The ATA was tuned at a center 
-frequency of 8400 MHz (the beamformer’s bandwidth is relatively large, 672 MHz). 
-No DSN observations were underway at the the time of the ATA observation, 
+frequency of 8400 MHz (the beamformer’s bandwidth, for each tuning, is relatively large, 672 MHz). 
+No observations with the DSN were underway at the the time of the ATA observation, 
 therefore I assume no two-way communication mode has been set, and the transponder 
-is not locked to the uplink frequency.
-Ten minutes of data on a nearby quasar were collected using the correlator, 
+was not locked to the uplink frequency.
+Ten minutes of data on a nearby quasar<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> were collected using the correlator, 
 and a delay/phase solution was derived for the beamformer. The antennas were then 
 pointed at the position of Voyager 1 as determined using the ephemeris obtained 
 from the solar system dynamics NASA/JPL <a href="https://ssd.jpl.nasa.gov/horizons/app.html">webpage</a>
@@ -329,7 +329,7 @@ frequency will inevitably be Doppler shifted and drifting in time. The Doppler s
 was then calculated (thanks <a href="https://destevez.net/">Danni Estévez</a>), 
 and a waterfall plot of one of polarization was displayed. 
 The figure below shows the dynamic spectrum of
-the Voyager 1 downlink signal.v</p>
+the Voyager 1 downlink signal.</p>
 
     <p><img src="../../assets/img/voyager_waterfall.png" alt="Voyager1" />
 <em>A waterfall (frequency vs time) plot displaying the Voyager 1 spacecraft 
@@ -401,6 +401,13 @@ by the ATA team since the start of the refurbishment program in 2019</p>
 </div>
 <!-- /.row -->
 
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>An accreting supermassive blackhole that emits continuum light over a very broad range of radio frequencies. Due to this property, quasars are often used as delay, phase, and flux calibrators for radio interferometers. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 
 
             

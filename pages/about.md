@@ -10,7 +10,7 @@ subheadline         : ""
 teaser              : ""
 permalink           : "/about/"
 ---
-I am a radio astronomer. I did my PhD at Swinburne University - Melbourne.
+I am a radio astronomer. I did my PhD at the Swinburne University - Melbourne.
 
 Currently, I work as a postdoctoral researcher at the SETI Institute, mainly on the refurbishement program 
 of the Allen Telescope Array (ATA)
