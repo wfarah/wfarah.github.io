@@ -52,6 +52,14 @@
 
 
 	
+	<!-- Twitter -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="Astro_Wael">
+	<meta name="twitter:creator" content="Astro_Wael">
+	<meta name="twitter:title" content="Atom Feed (Styled)">
+	<meta name="twitter:description" content="Dr. Wael Farah | SETI Institute">
+	
+	
 
 	<link type="text/plain" rel="author" href="http://localhost:4000/humans.txt">
 
