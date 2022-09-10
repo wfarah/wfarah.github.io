@@ -3,8 +3,8 @@
   side: left
 
 
-- title: about
-  url: "/about/"
+- title: about me
+  url: "/about_me/"
   side: left
 
 
@@ -37,6 +37,12 @@
 #- title: "Search"
 #  url: "/search/"
 #  side: right
+#
+
+#- title: "News & Media"
+#  url: "/news/"
+#  side: left
+
 
 - title: "Contact"
   url: "/contact/"

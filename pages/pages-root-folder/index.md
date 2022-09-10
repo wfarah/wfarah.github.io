@@ -44,11 +44,12 @@ permalink: /index.html
 #
 homepage: true
 ---
-# Welcome!
-## I am Dr. Wael Farah, a radio astronomer and data analyst
+# Hi!
+#### I am Dr. Wael Farah --- radio astronomer and data analyst
+<br>
+
+
 
 ![Wael](assets/img/wael8_cropped.jpg)
 
 #### My research interests are many, including the study of Fast Radio Bursts, pulsars, the search for extraterrestrial intelligence, radio astronomy instrumentation and machine learning.
-
-##### This site is still practically empty, but I'm slowly adding to it!
