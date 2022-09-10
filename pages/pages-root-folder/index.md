@@ -44,8 +44,8 @@ permalink: /index.html
 #
 homepage: true
 ---
-# Hi!
-#### I am Dr. Wael Farah --- radio astronomer and data analyst
+## Hi!
+### I am Dr. Wael Farah --- radio astronomer and data analyst
 <br>
 
 
