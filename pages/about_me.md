@@ -21,12 +21,22 @@ Given their impulsive nature, FRBs carry the imprint of the ionized plasma that 
 ![FRB](../assets/img/FRB170827.png){:class="img-responsive"}
 *FRB170827, published in Farah et al., 2017*
 
+<br>
+<br>
+<br>
 I currently work as a postdoctoral researcher at the [SETI Institute](http://seti.org){:target="_blank"}. 
 My main focus is the refurbishement of the Allen Telescope Array (ATA), a 42 element 
-interferometer located in north California. The ATA 
+interferometer located in north California. The flexibility of the ATA 
+and its highly sensitive wide-band feeds makes it an ideal instrument 
+to study Fast Radio Bursts, pulsars, slow and fast transients, and to 
+search for and place constraints on the prevalence of 
+technologicallly-capable extraterrestrial civilizations.
 
 ![ATA](../assets/img/ATA3.jpg){:class="img-responsive"}
 *The Allen Telescope Array under a starry night (image credit: Joe Marfia)*
+<br>
+<br>
+<br>
 
 My research interests are many, including the study of FRBs and pulsars, and the 
 search for extraterrestrial intelligence (SETI). I am also interested in developing 
