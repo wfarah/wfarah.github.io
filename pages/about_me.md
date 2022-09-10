@@ -5,10 +5,10 @@ header:
     caption: "Image credit: Joe Marfia"
     caption_url: https://www.instagram.com/joe_marfia_photography/
 title               : "About Me"
-meta_title          : "About Me"
+meta_title          : "About Me | Wael Farah"
 subheadline         : ""
 teaser              : ""
-permalink           : "/about_me/"
+permalink           : "/about/"
 ---
 I am a radio astronomer. I completed my PhD at the Swinburne University of Technology in Melbourne,
 studying Fast Radio Bursts (FRBs) and pulsars. FRBs are super bright, 
