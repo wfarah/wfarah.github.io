@@ -19,7 +19,7 @@ originate from magnetars --- neutron stars that possess extremely powerful magne
 Given their impulsive nature, FRBs carry the imprint of the ionized plasma that they encounter on their journey to earth, making them ideal cosmological probes.
 
 ![FRB](../assets/img/FRB170827.png){:class="img-responsive"}
-*FRB170827, published in Farah et al., 2017*
+*FRB170827, published in Farah et al., 2018*
 
 <br>
 <br>
