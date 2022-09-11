@@ -49,7 +49,7 @@ permalink           : "/media/"
       <br>
       <br>
 
-      <iframe width="600" height="450"
+      <iframe width="420" height="315"
       src="https://www.youtube.com/embed/Or_GMIWFJDA" class=alignleft>
       </iframe>
 
@@ -65,7 +65,7 @@ permalink           : "/media/"
       <br>
       <br>
 
-      <iframe width="600" height="450"
+      <iframe width="420" height="315"
       src="https://www.youtube.com/embed/y8BWxrMjOlU" class=alignleft>
       </iframe>
 
