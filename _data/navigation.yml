@@ -39,9 +39,9 @@
 #  side: right
 #
 
-#- title: "News & Media"
-#  url: "/news/"
-#  side: left
+- title: "News & Media"
+  url: "/media/"
+  side: left
 
 
 - title: "Contact"
