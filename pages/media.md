@@ -27,8 +27,9 @@ permalink           : "/media/"
 <br>
 
 
-
-    <h2><a href="https://app.kidslisten.org/ep/The-Show-About-Science-087-The-Search-in-the-Stars-with-Wael-Farah" target="_blank">The Search in the Stars with Wael Farah</a></h2>
+    <ul>
+    <h2><a href="https://app.kidslisten.org/ep/The-Show-About-Science-087-The-Search-in-the-Stars-with-Wael-Farah" target="_blank"><li>The Search in the Stars with Wael Farah</li></a></h2>
+    </ul>
     <p>
       <a href="https://app.kidslisten.org/ep/The-Show-About-Science-087-The-Search-in-the-Stars-with-Wael-Farah" target="_blank" title="The Search in the Stars with Wael Farah"><img src="../assets/img/The_show_about_science.png" class="alignright" width="150" height="150" alt="News&Media | Wael Farah"></a>
 
@@ -42,8 +43,9 @@ permalink           : "/media/"
 <br>
 <br>
 
-
-      <h2><a href="https://www.youtube.com/watch?v=Or_GMIWFJDA" target="_blank">Radio signals from our universe; Little green men or natural phenomena?</a></h2>
+      <ul>
+      <h2><a href="https://www.youtube.com/watch?v=Or_GMIWFJDA" target="_blank"><li>Radio signals from our universe; Little green men or natural phenomena?</li></a></h2>
+      </ul>
     <p>
       Podcast hosted by Reza Katebi for <a href="https://www.youtube.com/channel/UCNYrETsy0jDHKhpabjNpXZw" target="_blank">The Edge of Science</a>. 
       <br>
@@ -59,7 +61,9 @@ permalink           : "/media/"
 <br>
 
 
-      <h2><a href="https://www.seti.org/event/seti-talks-virtual-edition-fast-radio-bursts-long-standing-mystery-about-end" target="_blank">Fast Radio Bursts: A long-standing mystery about to end?</a></h2>
+      <ul>
+      <h2><a href="https://www.seti.org/event/seti-talks-virtual-edition-fast-radio-bursts-long-standing-mystery-about-end" target="_blank"><li>Fast Radio Bursts: A long-standing mystery about to end?</li></a></h2>
+       </ul>
     <p>
       I took part in a series of the <a href="https://www.seti.org/seti-talks" target="_blank">SETI Talks</a> with Daniele Michilli and hosted by Jill Tarter.
       <br>
